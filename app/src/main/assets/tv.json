@@ -1,0 +1,114 @@
+{
+    "tv":[
+        {
+            "id":1,
+            "nameShow":"The Good Doctor (2017)",
+            "image":"https://www.themoviedb.org/t/p/w220_and_h330_face/6tfT03sGp9k4c0J3dypjrI8TSAI.jpg",
+            "raiting":"86%",
+            "genre":"Drama",
+            "duration":"43m",
+            "sinopsis":"A young surgeon with Savant syndrome is recruited into the surgical unit of a prestigious hospital.The question will arise: can a person who doesn't have the ability to relate to people actually save their lives",
+            "trailer":"https://www.youtube.com/watch?v=fYlZDTru55g&feature=emb_title",
+            "link":"https://www.themoviedb.org/tv/71712-the-good-doctor"
+        },
+        {
+            "id":2,
+            "nameShow":"Invincible (2021)",
+            "image":"https://www.themoviedb.org/t/p/w220_and_h330_face/yDWJYRAwMNKbIYT8ZB33qy84uzO.jpg",
+            "raiting":"89%",
+            "genre":"Animation, Action & Adventure, Drama",
+            "duration":"45m",
+            "sinopsis":"Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father’s tutelage.",
+            "trailer":"https://www.youtube.com/watch?v=-bfAVpuko5o",
+            "link": "https://www.themoviedb.org/tv/95557-invincible"
+        },
+        {
+            "id":3,
+            "nameShow":"Riverdale (2017)",
+            "image":"https://www.themoviedb.org/t/p/w220_and_h330_face/wRbjVBdDo5qHAEOVYoMWpM58FSA.jpg",
+            "raiting":"86%",
+            "genre":"Mystery, Drama, Crime",
+            "duration":"45m",
+            "sinopsis":"Set in the present, the series offers a bold, subversive take on Archie, Betty, Veronica and their friends, exploring the surreality of small-town life, the darkness and weirdness bubbling beneath Riverdale’s wholesome facade.",
+            "trailer":"https://www.youtube.com/watch?v=HxtLlByaYTc&feature=emb_title",
+            "link": "https://www.themoviedb.org/tv/69050-riverdale"
+        },
+        {
+            "id":4,
+            "nameShow":"Grey's Anatomy (2005)",
+            "image":"https://www.themoviedb.org/t/p/w220_and_h330_face/clnyhPqj1SNgpAdeSS6a6fwE6Bo.jpg",
+            "raiting":"82%",
+            "genre":"Drama",
+            "duration":"43m",
+            "sinopsis":"Follows the personal and professional lives of a group of doctors at Seattle’s Grey Sloan Memorial Hospital.",
+            "trailer":"https://www.youtube.com/watch?v=cZcjNaAao6g",
+            "link": "https://www.themoviedb.org/tv/1416-grey-s-anatomy"
+        },
+        {
+            "id":5,
+            "nameShow":"Superman & Lois (2021)",
+            "image":"https://www.themoviedb.org/t/p/w220_and_h330_face/vlv1gn98GqMnKHLSh0dNciqGfBl.jpg",
+            "raiting":"83%",
+            "genre":"Action & Adventure, Sci-Fi & Fantasy, Drama",
+            "duration":"1h 4m",
+            "sinopsis":"After years of facing megalomaniacal supervillains, monsters wreaking havoc on Metropolis, and alien invaders intent on wiping out the human race, The Man of Steel aka Clark Kent and Lois Lane come face to face with one of their greatest challenges ever: dealing with all the stress, pressures and complexities that come with being working parents in today's society.",
+            "trailer":"https://www.youtube.com/watch?v=wj4v7LFwG1Q",
+            "link": "https://www.themoviedb.org/tv/95057-superman-lois"
+        },
+        {
+            "id":6,
+            "nameShow":"Game of Thrones (2011)",
+            "image":"https://www.themoviedb.org/t/p/w220_and_h330_face/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg",
+            "raiting":"84%",
+            "genre":"Sci-Fi & Fantasy, Drama, Action & Adventure",
+            "duration":"1h",
+            "sinopsis":"Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+            "trailer":"https://www.youtube.com/watch?v=BpJYNVhGf1s",
+            "link": "https://www.themoviedb.org/tv/1399-game-of-thrones"
+        },
+        {
+            "id":7,
+            "nameShow":"Legacies (2018)",
+            "image":"https://www.themoviedb.org/t/p/w220_and_h330_face/qTZIgXrBKURBK1KrsT7fe3qwtl9.jpg",
+            "raiting":"86%",
+            "genre":"Sci-Fi & Fantasy, Drama",
+            "duration":"43m",
+            "sinopsis":"In a place where young witches, vampires, and werewolves are nurtured to be their best selves in spite of their worst impulses, Klaus Mikaelson’s daughter, 17-year-old Hope Mikaelson, Alaric Saltzman’s twins, Lizzie and Josie Saltzman, among others, come of age into heroes and villains at The Salvatore School for the Young and Gifted.",
+            "trailer":"https://www.youtube.com/watch?v=GIglgbSjqL0",
+            "link": "https://www.themoviedb.org/tv/79460-legacies"
+        },
+        {
+            "id":8,
+            "nameShow":"The Vampire Diaries (2009)",
+            "image":"https://www.themoviedb.org/t/p/w220_and_h330_face/kLEha9zVVv8acGFKTX4gjvSR2Q0.jpg",
+            "raiting":"83%",
+            "genre":"Drama, Sci-Fi & Fantasy",
+            "duration":"43m",
+            "sinopsis":"The story of two vampire brothers obsessed with the same girl, who bears a striking resemblance to the beautiful but ruthless vampire they knew and loved in 1864.",
+            "trailer":"https://www.youtube.com/watch?v=_GWtgdAYHMU&feature=emb_title",
+            "link": "https://www.themoviedb.org/tv/18165-the-vampire-diaries"
+        },
+        {
+            "id":9,
+            "nameShow":"Naruto (2002)",
+            "image":"https://www.themoviedb.org/t/p/w220_and_h330_face/vauCEnR7CiyBDzRCeElKkCaXIYu.jpg",
+            "raiting":"84%",
+            "genre":"Animation, Action & Adventure, Sci-Fi & Fantasy",
+            "duration":"24m",
+            "sinopsis":"In another world, ninja are the ultimate power, and in the Village Hidden in the Leaves live the stealthiest ninja in the land. Twelve years earlier, the fearsome Nine-Tailed Fox terrorized the village and claimed many lives before it was subdued and its spirit sealed within the body of a baby boy. That boy, Naruto Uzumaki, has grown up to become a ninja-in-training who's more interested in pranks than in studying ninjutsu.. but Naruto is determined to become the greatest ninja ever!",
+            "trailer":"https://www.youtube.com/watch?v=-G9BqkgZXRA",
+            "link": "https://www.themoviedb.org/tv/46260"
+        },
+        {
+            "id":10,
+            "nameShow":"Elite (2018)",
+            "image":"https://www.themoviedb.org/t/p/w220_and_h330_face/3NTAbAiao4JLzFQw6YxP1YZppM8.jpg",
+            "raiting":"82%",
+            "genre":"Crime, Mystery, Drama",
+            "duration":"1h",
+            "sinopsis":"When three working class kids enroll in the most exclusive school in Spain, the clash between the wealthy and the poor students leads to tragedy.",
+            "trailer":"https://www.youtube.com/watch?v=QNwhAdrdwp0",
+            "link": "https://www.themoviedb.org/tv/76669-elite"
+        }
+    ]
+    }

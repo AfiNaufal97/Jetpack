@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">AfiNaufalSubmission_1</string>
+    <string name="judul">Judul</string>
+    <string name="raiting">Raiting</string>
+    <string name="_4_5">4.5</string>
+    <string name="_5000">5000</string>
+    <string name="watched">watched</string>
+    <string name="moview">Movie</string>
+    <string name="tv">TV</string>
+    <string name="title">Title</string>
+    <string name="raiting_value">4.7</string>
+    <string name="year">Year</string>
+    <string name="year_value">2020</string>
+    <string name="sinposis_title">Sinopsis </string>
+    <string name="stasiun_televisi_title">Stasiun Televisi :</string>
+    <string name="nama_stasiun_value">Nama Stasiun</string>
+    <string name="nama_stasiun_televisi">Stasiun Televisi :</string>
+    <string name="stasiun_televisi">Stasiun Televisi</string>
+    <string name="jam_tayang">Jam Tayang :</string>
+    <string name="jam_tayang_value">jam tayang isi</string>
+    <string name="tentang_acara_title">Tentang Acara :</string>
+    <string name="detail_value">Detail Value</string>
+    <string name="genre">Genre</string>
+    <string name="duration_value">1h 50m</string>
+    <string name="duration">Duration</string>
+    <string name="my_profile">My Profile</string>
+    <string name="rating_tv">Rating Tv</string>
+    <string name="my_entertainment">My Entertainment</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorit">Favorit</string>
+
+</resources>
